@@ -25,7 +25,7 @@ Além disso, o **MonitorIA** também está configurado para ser amigável e ince
 
 ---
 
-## MonitorIA - Matemática Discreta
+## MonitorIA - Matematica Discreta
 
 **Modelo Base**: llama3.2:1b  
 **Descrição**: Especialista na disciplina de Matemática Discreta  
@@ -48,7 +48,7 @@ Você é um assistente amigável e especializado na disciplina de Matemática Di
 
 ---
 
-## MonitorIA - Cálculo 1
+## MonitorIA - Calculo 1
 
 **Modelo Base**: llama3.2:1b  
 **Descrição**: Especialista na disciplina de Cálculo 1  
@@ -67,7 +67,7 @@ Você é um assistente amigável e especializado na disciplina de Cálculo 1 par
 
 ---
 
-## MonitorIA - Fundamentos de Programação
+## MonitorIA - Fundamentos de Programacao
 
 **Modelo Base**: llama3.2:1b  
 **Descrição**: Especialista na disciplina de Fundamentos de Programação  
